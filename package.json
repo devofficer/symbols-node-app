@@ -1,0 +1,28 @@
+{
+  "name": "symbols-assessment",
+  "version": "1.0.0",
+  "description": "A simple node app generating html from json file",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devofficer/symbols-node-app.git"
+  },
+  "keywords": [
+    "HTML",
+    "Javascript",
+    "Generate"
+  ],
+  "author": "devofficer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devofficer/symbols-node-app/issues"
+  },
+  "homepage": "https://github.com/devofficer/symbols-node-app#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}

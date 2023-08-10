@@ -1,0 +1,34 @@
+{
+   "tag":"div",
+   "text":"Hello, friends",
+   "style":{
+      "backgroundColor":"yellow",
+      "fontSize":"14px"
+   },
+   "id":"first-div",
+   "children":[
+      {
+         "tag":"p",
+         "text":"Lorem ipsum dolor sit",
+         "class":"para",
+         "style":{
+            "fontFamily":"monospace",
+            "fontSize":"11px"
+         }
+      },
+      {
+         "tag":"footer",
+         "style":{
+            "width":"auto",
+            "height":"100px",
+            "color":"blue"
+         },
+         "children":[
+            {
+               "tag":"span",
+               "text":"This is the end"
+            }
+         ]
+      }
+   ]
+}
